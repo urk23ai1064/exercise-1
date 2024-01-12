@@ -1,0 +1,2 @@
+Installation of git and managing public & private repositories
+Installing Git
